@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="Land_Misc_Well_Pump_Blue" pos="4881.301270 300.611389 7578.756836" rpy="-0.000000 -0.000000 35.999985" a="54"/>
+	<group name="Land_FuelStation_Feed_Enoch" pos="4910.195801 301.791779 7572.793945" rpy="-0.000000 -0.000000 35.999985" a="54"/>
+	<group name="Bonfire" pos="4873.125488 306.248352 7572.791504" rpy="-0.000000 0.000000 -144.000031" a="-126"/>
+	<group name="Land_Container_1Mo" pos="4877.485840 301.365845 7568.708496" rpy="0.000000 0.000000 -53.999981" a="144"/>
+	<group name="Land_Castle_Wall1_20_nolc" pos="4865.483398 296.482635 7581.123535" rpy="-0.000000 0.000000 -117.000031" a="-153"/>
+	<group name="Land_Castle_Wall1_20" pos="4864.793457 295.673492 7596.362305" rpy="0.000000 0.000000 -53.999939" a="144"/>
+	<group name="Land_Castle_Wall1_20_Turn_nolc" pos="4878.433105 297.571228 7603.447754" rpy="-0.000000 -0.000000 17.999987" a="72"/>
+	<group name="Land_Castle_Wall1_20_Turn" pos="4889.849121 298.123230 7599.452637" rpy="-0.000000 -0.000000 26.999985" a="63"/>
+	<group name="Land_Mil_GuardTower" pos="4917.432129 306.600250 7548.003906" rpy="0.000000 0.000000 -62.999973" a="153"/>
+</map>
